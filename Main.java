@@ -9,7 +9,7 @@ public class Main {
     
         String input;
         Scanner Keyboard = new Scanner(System.in);               
-        Dice dice = new Dice(1);
+        Dice dice = new Dice(3);
         Game game = new Game();
     
         do{                                 
