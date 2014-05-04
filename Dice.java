@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class Dice {
     
-    int one,two,three,four,five,six;
     int value,newValue,total,newBounces,Bounces;
     
     static Random random = new Random();    
